@@ -18,7 +18,7 @@
 <div align="center">
   <a href="https://github.com/renatodev0">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=renatodev0&show_icons=true&theme=dark"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatodev0&theme=dark"/>
+<!--   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatodev0&theme=dark"/> -->
   <br>
   <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=renatodev0&show_icons=true&locale=en&layout=compact&theme=dark&line_height=1"/>
   <img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renatodev0&theme=monokai"/>
