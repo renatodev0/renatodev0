@@ -1,5 +1,4 @@
 <h1>Hi, I'm Renato Silva</h1>
-<img height="200em" align="right" src="https://i.ibb.co/bKFdN9f/sova-programador-2.png" alt="sova-programador-2"/>
 
 <h3>🌞 How you doing? Welcome to github my profile!</h3>
 
@@ -14,7 +13,6 @@
 - 📖 _“What we know is a drop, what we don't know is an ocean.”_
 
 </p>
-<br>
 
 ---
 <div align="center">
