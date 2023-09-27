@@ -6,8 +6,6 @@
 
 - 👨🏻‍💻 Full Stack Developer with over 4 years experience in several languages and frameworks
 
-- 🔭 I’m currently working at [Computer Science](https://github.com/Computer-Science-CS).
-
 - 🏀🎶💻 Passionate about sports, music and technology.
 
 - 📖 _“What we know is a drop, what we don't know is an ocean.”_
