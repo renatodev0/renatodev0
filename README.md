@@ -29,7 +29,7 @@
   <img align="center" alt="Ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PHP" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="PHP" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Laravel" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
   <img align="center" alt="Flutter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Ruby" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
