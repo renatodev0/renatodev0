@@ -4,7 +4,7 @@
 
 <p>
 
-- 👨🏻‍💻 Full Stack Developer with almost 5 years experience in different languages and frameworks
+- 👨🏻‍💻 Full Stack Developer with 5 years experience in different languages and frameworks
 
 - 🏀🎶💻 Passionate about sports, music and technology.
 
@@ -15,11 +15,6 @@
 ---
 <div align="center">
   <a href="https://github.com/renatodev0">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=renatodev0&show_icons=true&theme=dark"/>
-  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatodev0&theme=dark"/>
-  <br>
-  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=renatodev0&show_icons=true&locale=en&layout=compact&theme=dark&line_height=2"/>
-  <img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renatodev0&theme=monokai"/>
 </div>
 <div align="center"><br>
   <img align="center" alt="Node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -45,9 +40,3 @@
 </div>
 
 ---
-    
-   <div align="center">
-
-   ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=edrysw4eaumwrktnbz4zxm2ef)
-
-   </div>
