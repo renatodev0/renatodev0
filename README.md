@@ -4,7 +4,7 @@
 
 <p>
 
-- 👨🏻‍💻 Full Stack Developer with 5 years experience in different languages and frameworks
+- 👨🏻‍💻 Full Stack Developer with 6 years experience in different languages and frameworks
 
 - 🏀🎶💻 Passionate about sports, music and technology.
 
